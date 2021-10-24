@@ -1,16 +1,20 @@
-### Hi there 👋
+# Bienvenido al GitHub del canal Nestor Coding.
+Aqui podras encontrar los scripts de todos los videos que vaya subiendo.
 
-<!--
-**Nestortillo/Nestortillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Videojuego por turnos][turnosRepo]
+- 1er Video ***Movimiento hacia el cursor***
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+[![1][ImagenCanal]][youtube]
+[![2][ImagenSubs]][susbcribe]
+
+
+[turnosRepo]:https://github.com/Nestortillo/JuegoPorTurnos.git "Link al repositorio"
+[youtube]:https://www.youtube.com/channel/UCzG0AJwQ5GVvGmw1ofyo73w "Canal Nestor Coding"
+[susbcribe]:https://www.youtube.com/channel/UCzG0AJwQ5GVvGmw1ofyo73w?sub_confirmation=1 "Suscribete a mi canal"
+[ImagenCanal]:GitHubCanal.png
+[ImagenSubs]:https://github.com/Nestortillo/Nestortillo/blob/91b334a4b63b36e33d2c272e5f695daeb3d2e634/SubsLogo.png
