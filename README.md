@@ -15,7 +15,7 @@ Aqui podras encontrar los scripts de todos los videos que vaya subiendo.
 [![2][ImagenSubs]][susbcribe]
 
 
-[turnosRepo]:https://github.com/Nestortillo/JuegoPorTurnos.git "Link al repositorio"
+[turnosRepo]:https://github.com/Nestortillo/JuegoTurnos.git "Link al repositorio"
 [youtube]:https://www.youtube.com/channel/UCzG0AJwQ5GVvGmw1ofyo73w "Canal Nestor Coding"
 [susbcribe]:https://www.youtube.com/channel/UCzG0AJwQ5GVvGmw1ofyo73w?sub_confirmation=1 "Suscribete a mi canal"
 [ImagenCanal]:GitHubCanal.png
