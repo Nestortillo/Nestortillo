@@ -4,7 +4,7 @@ Aqui podras encontrar los scripts de todos los videos que vaya subiendo.
 ### [Videojuego por turnos][turnosRepo]
 
 #### [1er Video ***Movimiento hacia el cursor y patrulla***](https://www.youtube.com/watch?v=S7zdz3M9q-E&t=1s&ab_channel=NestorCoding)
-- [Descarga de scripts](https://github.com/Nestortillo/JuegoPorTurnos.git)
+- [Descarga de scripts](https://github.com/Nestortillo/JuegoTurnos.git)
 
 
 
