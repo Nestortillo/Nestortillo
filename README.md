@@ -1,6 +1,4 @@
 # Bienvenido al GitHub del canal Nestor Coding.
-Aqui podras encontrar los scripts de todos los videos que vaya subiendo.
-
 ### Videojuego por turnos
 
 #### [1er Video ***Movimiento hacia el cursor y patrulla***](https://www.youtube.com/watch?v=S7zdz3M9q-E&t=1s&ab_channel=NestorCoding "Link al video")
